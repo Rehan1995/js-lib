@@ -1,0 +1,1 @@
+export { arrayObject } from "./script";

@@ -1,0 +1,13 @@
+{
+    "name": "SamJSLib",
+    "version": "1.0.0",
+    "repository": "https://github.com/Rehan1995/js-lib.git",
+    "author": "Rehan Samarasekera <sewranga77@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "compile": "tsc && tsc --build tsconfig.es5.json"
+    },
+    "dependencies": {
+        "typescript": "^5.0.2"
+    }
+}
